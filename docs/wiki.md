@@ -363,9 +363,9 @@ interface Staff{login:date; logout:date; user:User;}
 - [ ] Dar un informe mensual de las horas trabajadas por día entre todos los empleados, se puede elegir un mes cualquiera.
 
 ## `story: Stock Alarms`
-> **Autor: ???**   
-> **GitHub: [@???](https://github.com/???)**   
-> **User on commit: `???`**
+> **Autor: David Alexander Amaya Cruz**   
+> **GitHub: [@david-amaya-acruz](https://github.com/david-amaya-acruz)**   
+> **User on commit: `David Amaya`**
 
 Establecer valores mínimos (con nivel WARNING y CRITICAL) de un conjunto de artículos. Los warning-critical específicos predominan respecto a los genéricos.
 ```typescript
